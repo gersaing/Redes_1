@@ -32,3 +32,10 @@ Las redes nos acercan al mundo, nada ni nadie está tan lejos gracias a la evolu
 -Factores internos
  .Tamaño del mensaje: puede afectar el tiempo del mensaje en diferentes puntos de la red, a mayor tamaño del mensaje podría demorar más o verse interrumpido.
  .la complejidad del mensaje y la importancia del mensaje: Un mensaje de baja importancia podría perderse en la red si esta está sobrecargada
+
+5-Identificar los componentes clave de cualquier red de datos y describir su funcionamiento.
+
+ -Reglas: Definen los protocolos que se utilizaran en la comunicación
+ -Medios: Es el canal por el cual se va a transmitir la información, puede ser alámbrico o inalámbrico
+ -Mensajes: Es la información que se desea transmitir, puede ser texto, una página web, voz, video etc.
+ -Dispositivos: Hay dispositivos finales como lo puede ser un computador personal o un servidor, también están los dispositivos intermedios como por ejemplo los switch, routers, módems entre otros.
