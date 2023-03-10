@@ -54,3 +54,14 @@ Las redes nos acercan al mundo, nada ni nadie está tan lejos gracias a la evolu
 
 8-Investigar qué son las redes orientadas y no orientadas a la conexión.
 Las redes orientadas a conexión son aquellas que se basan en los sistemas telefónicos, en donde primero se establece la ruta por donde viajará la información y esta se mantiene hasta el final de la conexión. por el contrario en las redes no orientadas a conexión el emisor puede enviar un mensaje sin la necesidad de asegurarse que el emisor esté disponible.
+
+9-Describa que es la calidad del servicio y que se necesita para mantener una buena calidad de servicio para las aplicaciones que lo requieren.
+ -Para mantener una buena calidad del servicio es necesario priorizar los tipos de paquetes de datos que deben enviarse a expensas de otros tipos de paquetes que puedan retrasarse o descartarse. A continuación algunos parámetros que pueden usarse para clasificar y priorizar los paquetes
+ -Comunicaciones sensibles al tiempo - Alta priorización ( llamadas)
+ -Comunicaciones no sensibles al tiempo - Baja priorización ( correos)
+ -Mucha importancia para la empresa - Alta prioridad(Transacciones)
+ -Comunicación indeseable-disminuye la prioridad
+
+10-¿Por qué importa la calidad del servicio en una red de datos? 
+La calidad del servicio importa en una red de datos porque la información que se comparte ha aumentado en su complejidad, cada día los usuarios demandan más servicios a la red como lo es texto, audio, video, llamadas etc por lo tanto esta tiene que estar en la capacidad de ofrecer un servicio que llene las expectativas de los usuarios tanto en velocidad, estabilidad  y confiabilidad.
+
