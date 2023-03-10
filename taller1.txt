@@ -45,3 +45,9 @@ Las redes nos acercan al mundo, nada ni nadie está tan lejos gracias a la evolu
  -Los datos son todo tipo de información ya sea texto, audio, video entre otros
  -Una red de datos es una infraestructura que permite compartir datos
  -Una red convergentes es aquella que permite compartir todo tipo de dato mediante una misma red en lugar de utilizar redes separadas
+
+7-Describir las características de las arquitecturas de red: tolerante a fallas, escalabilidad, calidad del servicio y seguridad. Mostrar sus respectivos ejemplos. 
+ -Tolerante a fallos: Uso de redes redundantes que permiten tratar cualquier tipo de falla ya sea software o hardware para que el acceso a la red siempre esté disponible.
+ -Escalabilidad: Ante la demanda cada vez más de acceso a la red una infraestructura bien diseñada permite adaptarse a estas solicitudes sin la necesidad de alterar todo el sistema.
+ -Calidad del servicio: Permite categorizar  la información de tal manera que se distribuya el espacio en la red según sean las necesidades, a mayor prioridad mayor calidad y espacio en la red.
+ -Seguridad: Debido a la gran expansión de internet, por la cual se comparte tanto información personal como empresarial se requiere dedicar esfuerzos en proteger la información que circula por la red.
