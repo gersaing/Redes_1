@@ -39,3 +39,9 @@ Las redes nos acercan al mundo, nada ni nadie está tan lejos gracias a la evolu
  -Medios: Es el canal por el cual se va a transmitir la información, puede ser alámbrico o inalámbrico
  -Mensajes: Es la información que se desea transmitir, puede ser texto, una página web, voz, video etc.
  -Dispositivos: Hay dispositivos finales como lo puede ser un computador personal o un servidor, también están los dispositivos intermedios como por ejemplo los switch, routers, módems entre otros.
+
+6-Responda brevemente, ¿Qué son los datos? ¿Qué es una red de datos? ¿Qué es una red convergente?
+
+ -Los datos son todo tipo de información ya sea texto, audio, video entre otros
+ -Una red de datos es una infraestructura que permite compartir datos
+ -Una red convergentes es aquella que permite compartir todo tipo de dato mediante una misma red en lugar de utilizar redes separadas
