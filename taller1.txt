@@ -76,3 +76,6 @@ Preguntas de lectura: Capítulo 2
   RED: Un conjunto de medios, tecnologías, protocolos necesarios para el intercambio de información y archivos entre los usuarios de una red.
   RED LAN : Generalmente una red lan cubre una única área geográfica y proporciona servicios y aplicaciones a personas dentro de una estructura organizacional común, como una empresa, un campus o una región mientras que un RED WAN o redes de área amplia es aquella que permite conectar áreas con con grandes distancias, las redes WAN permiten la comunicación entre redes LAN
   INTERNETWORK: Es una malla global de redes interconectadas que cubre las necesidades de comunicación humanas y dentro de ella está las más conocida, ampliamente utilizada y a la que accede el público en general es Internet, pero también están otras redes privadas como agencias gubernamentales o empresas industriales, y están reservadas para su uso exclusivo.  
+
+3-¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
+Internetwork es una malla global de redes interconectadas cubre  necesidades de comunicación estás mallas de comunicación pueden ser privadas como alguna redes gubernamentales o  públicas como “internet” .
