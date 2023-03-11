@@ -78,4 +78,42 @@ Preguntas de lectura: Capítulo 2
   INTERNETWORK: Es una malla global de redes interconectadas que cubre las necesidades de comunicación humanas y dentro de ella está las más conocida, ampliamente utilizada y a la que accede el público en general es Internet, pero también están otras redes privadas como agencias gubernamentales o empresas industriales, y están reservadas para su uso exclusivo.  
 
 3-¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
-Internetwork es una malla global de redes interconectadas cubre  necesidades de comunicación estás mallas de comunicación pueden ser privadas como alguna redes gubernamentales o  públicas como “internet” .
+  Internetwork es una malla global de redes interconectadas cubre  necesidades de comunicación estás mallas de comunicación pueden ser privadas como alguna redes gubernamentales o  públicas como “internet” .
+
+4-Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e interfaz de red.
+  Una tarjeta de interfaz de red es aquella que proporciona la conexión física con la red en la computadora personal u otro dispositivo host, por otro lado puerto físico es aquel que está conectado a través del medio a un dispositivo host, este permite conectar un dispositivo final a través del NIC con otro dispositivo final, y la interfaz de red son puertos especializados de un dispositivo de internetworking que se conecta con redes individuales, los puertos de un router se conocen como interfaces de red.
+
+5-¿Por qué se dice que un protocolo es independiente de la tecnología? 
+  Los protocolos son encargados de especificar el funcionamiento una red, es por esto que podemos acceder desde cualquier dispositivo sin importar la tecnología que este use, ya sea un celular, computadora o cualquier dispositivo que permita conectar a la red. Esta estandarización de los protocolos hace que quien tenga que adaptarse se a la tecnología a los protocolos y no los protocolos a la tecnología.
+6- Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo (PDU).
+  Una unidad de Datos del Protocolo (PDU) es una porción de datos que llegan a cada capa, cada capa encapsula los datos que recibe de la capa anterior de acuerdo con el protocolo que se utiliza.
+  Nombre de las PDU en cada capa según los protocolos de la suite TCP/IP:
+
+  Datos: término general para la PDU que se utiliza en la capa de aplicación.
+  Segmento: PDU de la capa de transporte.
+  Paquete: PDU de la capa de red
+  Trama: PDU de la capa de enlace de datos
+  Bits: PDU de la capa física que se utiliza cuando se transmiten datos físicamente por el medio
+
+7-Explicar la función de los protocolos en las comunicaciones de redes y para qué es el proceso de encapsulamiento de los datos (ilustrar el nombre que adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
+  Los protocolos incluyen mecanismos para que los dispositivos se identifiquen y establezcan conexiones entre sí, así como reglas de formato que especifican cómo se forman los paquetes y los datos en los mensajes enviados y recibidos.
+  El proceso de encapsular consiste en que a medida que un mensaje va atravesando los protocolos estos le van agregando información en cada nivel.
+8-Describir la diferencia entre los modelos de protocolo y modelos de referencia.
+  Un modelo protocolo es aquel que coincide fielmente con la estructura de una suite de protocolo en particular ejemplo el modelo TCP/IP con el protocolo TCP , por otro lado un modelo referencia no está pensado para una estructura de protocolo en particular sino que su fin es estandarizar y explicar el funcionamiento de los diferentes protocolos utilizados en una red.
+9-Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
+	
+  Modelo TCP/IP
+  Capa de Aplicación: Representa datos para el usuario más el control de codificación y de diálogo
+  Capa de Transporte: Admite la comunicación entre distintos dispositivos de distintas redes
+  Capa de internet: Determina la mejor ruta a través de la red
+  Capa de acceso a Red: Controla los dispositivos del hardware y los medios que controlan la red
+
+  Modelo OSI
+
+  Capa de Aplicación:	Proporciona los medios para la conectividad de extremo a extremo entre individuos de la red
+  Capa de Presentación: Proporciona una representación común de los datos transferidos entre los servicios de la capa de aplicación
+  Capa de Sesión: Proporciona servicios a la capa de presentación para organizar su diálogo y administrar el intercambio de datos 
+  Capa de Transporte: Define los servicios para segmentar, transferir y reensamblar los datos para las comunicaciones individuales entre dispositivos finales
+  Capa de Red: Proporciona servicios para intercambiar los datos individuales en la red entre dispositivos finales identificados
+  Capa de enlace a Datos: Los protocolos de esta capa describen los métodos para intercambiar tramas de datos entre dispositivos de un medio común
+  Capa Física: Los protocolos de esta capa describen los medios mecánicos, eléctricos, funcionales y de procedimiento para activar, mantener y desactivar conexiones físicas para la transmisión de bits hacia y desde un dispositivo de red
